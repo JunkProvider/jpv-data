@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "none",
+    "target": "ES5",
+    "outFile": "builds/jpv-data.js",
+    "declaration": true,
+    "sourceMap": false,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": false
+  },
+  "include": [
+    "source/**/*"
+  ],
+  "compileOnSave": true
+}
